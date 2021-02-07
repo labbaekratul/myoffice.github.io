@@ -1,11 +1,9 @@
 // ****BX SIDER
 
 
-//$(document).ready(function(){
+$(document).ready(function(){
   // $('.slider_area').bxSlider();
    
-
-  //});
 
   $('.slider_area').bxSlider({
     auto: true,
@@ -22,6 +20,10 @@
 
 
   });
+
+
+  });
+
 
 
 
