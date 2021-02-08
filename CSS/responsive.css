@@ -178,6 +178,10 @@
         width: 180px !important;
 
     }
+    
+      .bottom_heading{
+        display: none !important;
+    }
 
     .contruct span {
         
